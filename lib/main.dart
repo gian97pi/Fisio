@@ -6,8 +6,8 @@
 *  Copyright © 2018 [Company]. All rights reserved.
     */
 
+import 'package:fisio/splash_activity_widget/splash_activity_widget.dart';
 import 'package:flutter/material.dart';
-import 'form1_widget/form1_widget.dart';
 
 void main() => runApp(App());
 
@@ -18,7 +18,7 @@ class App extends StatelessWidget {
   Widget build(BuildContext context) {
   
     return MaterialApp(
-      home: Form1Widget(),
+      home: SplashActivityWidget(),
     );
   }
 }

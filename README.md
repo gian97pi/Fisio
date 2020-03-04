@@ -2,15 +2,17 @@
 
 ## Link utili
 
-[https://medium.com/flutter-community/flutter-responsive-ui-for-learning-platform-app-2df185f86e8e]
+[Flutter responsive UI](https://medium.com/flutter-community/flutter-responsive-ui-for-learning-platform-app-2df185f86e8e)
 
-[https://medium.com/flutter-community/developing-for-multiple-screen-sizes-and-orientations-in-flutter-fragments-in-flutter-a4c51b849434]
+[Widgets as fragments in Flutter](https://medium.com/flutter-community/developing-for-multiple-screen-sizes-and-orientations-in-flutter-fragments-in-flutter-a4c51b849434)
 
-[https://github.com/aloisdeniel/flutter_device_preview]
+### Pacchetti
 
-[https://github.com/fluttercommunity/breakpoint]
+[Flutter device preview](https://github.com/aloisdeniel/flutter_device_preview)
 
-[https://pub.dev/packages/responsive_builder]
+[Material breakpoints](https://github.com/fluttercommunity/breakpoint)
+
+[Responsive builder](https://pub.dev/packages/responsive_builder)
 
 ## Getting Started
 

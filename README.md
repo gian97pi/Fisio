@@ -6,6 +6,8 @@
 
 [Widgets as fragments in Flutter](https://medium.com/flutter-community/developing-for-multiple-screen-sizes-and-orientations-in-flutter-fragments-in-flutter-a4c51b849434)
 
+[Widgets samples from Flutter dev](https://flutter.github.io/samples/#/)
+
 ### Pacchetti
 
 [Flutter device preview](https://github.com/aloisdeniel/flutter_device_preview)
